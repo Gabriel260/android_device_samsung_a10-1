@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/havoc_a10.mk
+    $(LOCAL_DIR)/rr_a10.mk
 
 COMMON_LUNCH_CHOICES := \
-     havoc_a10-userdebug \
-     havoc_a10-eng \
-     havoc_a10-user
+     rr_a10-userdebug \
+     rr_a10-eng \
+     rr_a10-user
